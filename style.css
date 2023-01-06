@@ -729,9 +729,7 @@ footer p:hover {
 .contact .flex{
   justify-content: space-between;
 }
-.contact .contact-left > p{
-  margin-left: 1rem;
-}
+
 /*----- Contact-left Column -----*/
 .contact-right{
    flex-basis: 35%;
