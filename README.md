@@ -77,3 +77,5 @@ The **HTML** was used to created the main structure of the webpage.
 **JS** was used along side **JS** to make the webpage interactive
 ### MEDIAQUERIE, GRID and FLEX
  for web responsiveness.
+
+File retrieved by git cloning from remote repository (GitHub)
